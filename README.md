@@ -6,10 +6,15 @@
 
 - [x] construct inverted index (finished on 19/4/1) 
 - [x] AND, OR, NOT look up under inverted index (finished on 19/4/1) 
-- [ ] spell correction under inverted index
+- [x] spell correction under inverted index (finished on 19/4/2)
 
 ### Extension:
 
 - [ ] construct Permuterm index
+
 - [ ] spell correction under Permuterm index(trigram)
-- [ ] Soundex search for irregular spellings
+
+- [x] phonetic correction under inverted index (finished on 19/4/2)
+
+  
+
